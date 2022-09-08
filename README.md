@@ -59,7 +59,7 @@ performance of the model.
 • Bar chat is plotted to compare different algorithms accuracy.
 ## Flow Chart
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](src/flow.png)
 ## 📸Outputs
 
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
