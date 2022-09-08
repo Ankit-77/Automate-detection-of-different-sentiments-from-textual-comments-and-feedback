@@ -63,7 +63,7 @@ performance of the model.
 ## 📸Outputs
 
 ![App Screenshot](src/wordcloud.png)
-wordcloud for all the most used words (both positive as well as negative)
+          wordcloud for all the most used words (both positive as well as negative)
 ![App Screenshot](src/wordcloud_positive.png)
 wordcloud only for positive words
 ![App Screenshot](src/wordcloud_negative.png)
