@@ -62,12 +62,12 @@ performance of the model.
 ![App Screenshot](src/flow.png)
 ## 📸Outputs
 
-![App Screenshot](src/wordcloud.png)
-                                        wordcloud for all the most used words (both positive as well as negative)
-![App Screenshot](src/wordcloud_positive.png)
+![App Screenshot](src/wordcloud.png)          
+wordcloud for all the most used words (both positive as well as negative)
+![App Screenshot](src/wordcloud_positive.png)         
 wordcloud only for positive words
 ![App Screenshot](src/wordcloud_negative.png)
-wordcloud only for negative words
+wordcloud only for negative words           
 ![App Screenshot](src/top10.png)
 Bar chart for top 10 positive hashtag
 ![App Screenshot](src/top10_negative.png)
