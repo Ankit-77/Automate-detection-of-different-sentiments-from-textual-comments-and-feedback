@@ -64,18 +64,25 @@ performance of the model.
 
 ![App Screenshot](src/wordcloud.png)          
 wordcloud for all the most used words (both positive as well as negative)
+
 ![App Screenshot](src/wordcloud_positive.png)         
 wordcloud only for positive words
-![App Screenshot](src/wordcloud_negative.png)
+
+![App Screenshot](src/wordcloud_negative.png)         
 wordcloud only for negative words           
+
 ![App Screenshot](src/top10.png)
 Bar chart for top 10 positive hashtag
+
 ![App Screenshot](src/top10_negative.png)
 Bar chart for top 10 negative hashtag
+
 ![App Screenshot](src/tfid.png)
 Accuracy bar plot of different algorthims trained on tfid feature extraction 
+
 ![App Screenshot](src/count_vector.png)
 Accuracy bar plot of different algorthims trained on count vectorizer feature extraction
+
 ![App Screenshot](src/vs.png)
 Comparison Accuracy bar plot between tfid and count vectorizer feature extraction
 
